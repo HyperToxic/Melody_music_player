@@ -1,7 +1,5 @@
 package com.guohow.melody;
 
-import java.util.List;
-
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -21,6 +19,9 @@ import com.guohow.melody.player.MusicPlayer;
 import com.guohow.melody.settings.Settings;
 import com.guohow.melody.ui.IndicatorFragmentActivity;
 
+import java.util.List;
+
+//test android studio git
 public class Melody extends IndicatorFragmentActivity {
 
 	BroadcastReceiver br1;
