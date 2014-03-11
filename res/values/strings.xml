@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MELODY</string>
+    <string name="action_settings">设置</string>
+    <string name="fragment_one">红心</string>
+    <string name="fragment_two">正在</string>
+    <string name="fragment_three">所有</string>
+    <string name="defaultSongTitle">melody</string>
+    <string name="defaultArtistName">Melody</string>
+    <string name="title_activity_about">关于</string>
+
+</resources>
